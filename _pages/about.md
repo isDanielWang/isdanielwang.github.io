@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year undergraduate student at [Beihang University](www.buaa.edu.cn)  My research interests include complex network, machine learning and graph learning. 
+I am currently a master student at [City University of Hong Kong](https://www.cityu.edu.hk/)  My research interests include Meta-learning, Natural Language Processing and Applied machine learning.
 
-I spent wonderful time and laid a solid foundation in complex network in [M3Nets](m3nets.de) at National Key Laboratory of CNS/ATM, supervised by Prof. [Sebastian Wandelt](http://m3nets.de/group/sw.html). Currently, I am a research intern in [WISC Lab](https://www.cse.cuhk.edu.hk/irwin.king/wisc_lab/home), studying graph learning in hyperbolic space under the guidance of Prof. [Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home).
+I laid a solid foundation in meta-learning in doing my master research project, supervised by Dr. [Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html)). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr. [Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the Question Generation and Dialouge System. Previously, I interned at Cambricon as an algorithm researcher and JD.com as an SDE.
 
-<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Fall! I am passionate about graph learning, complex network and data mining. If you have any helpful information, please contact me! Thank you very much!</font></strong>
+<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, Meta-learning and Machine Learning. If you have any helpful information, please contact me! Thank you very much!</font></strong>
 
 ## Education
 
@@ -19,17 +19,45 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
                 <tbody>
                     <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/beihang.png" width="160" height="160">
+                            <img src="../images/cityu.png" width="160" height="160">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <a href="https://ev.buaa.edu.cn/">
-                                <papertitle>Beihang University, China</papertitle>
+                            <a href="https://www.cityu.edu.hk/">
+                                <papertitle>City University of Hong Kong, Hong Kong</papertitle>
                             </a>
                             <p></p>
-                            <em>BEng in mechanical engineering (with honors)</em>   2019.09 - 2023.06(expected)
+                            <em>MSc in Computer Science (with distinction)</em>   2021.08 - 2022.10(expected)
                             <p></p>
-                            <strong>GPA:</strong>3.83/4 <strong>Weighted Score:</strong>91.85/100 
-                            <P>Courses: Calculus (100/100), Computer Science and Programming (100/100), Data Management and Artifitial Intelligence (100/100), Probability and Statistic (100/100), Introduction to deep learning and its applications (96/100), Linear Algebra (95/100), Natural Language Processing (91/100) </P>
+                            <strong>CGPA:</strong>3.75/4.3
+                            <P>Courses: Machine Learning: Principles and Practice (A), Natural Language Processing (A), Data Warehousing and Data Mining (A+), Artificial Intelligence (A), Data Management and Artifitial Intelligence (100/100), Data Engineering (A-) </P>
+                        </td>
+                    </tr>
+                     <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/postech.png" width="160" height="160">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <a href="https://www.postech.ac.kr/eng/">
+                                <papertitle>Pohang University of Science and Technology, Korea</papertitle>
+                            </a>
+                            <p></p>
+                            <em>Exchange student in mathematics department</em>   2019.09 - 2019.12
+                            <P>Courses: Data Science, Acturial mathematics, English writing </P>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/hit.png" width="160" height="160">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <a href="http://www.hit.edu.cn/">
+                                <papertitle>Harbin Institute of Technology, China</papertitle>
+                            </a>
+                            <p></p>
+                            <em>BSc in Information and Computing</em>   2016.09 - 2020.06
+                            <p></p>
+                            <strong>CGPA:</strong>86.35/100
+                            <P>Courses: Probability and Statistics(96), Numerical Methods of Partial Differential Equation(96), Numerical Analysis(92), Operations Research(100), Equations of Mathematical Physics(91), Elements of Information Science(96), Preliminary Functional Analysis(98), Function of Complex Variable(97), Topology(93), C Language(90), Computer Network Technology and Applications(90) </P>
                         </td>
                     </tr>
                 </tbody>
@@ -40,7 +68,7 @@ I spent wonderful time and laid a solid foundation in complex network in [M3Nets
 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
-                    <tr>
+                    <tr>, 
                         <td style="padding:20px;width:30%;vertical-align:middle">
                             <img src="../images/SOCO.png" alt="blind-date" width="200" height="130">
                         </td>
