@@ -1,15 +1,15 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: "About me 🙋🏼‍♂️"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a master student at [City University of Hong Kong](https://www.cityu.edu.hk/)  My research interests include Meta-learning, Natural Language Processing and Applied machine learning.
+I am Shixiang WANG,  a master student at [City University of Hong Kong](https://www.cityu.edu.hk/)  My research interests include Meta-learning, Natural Language Processing and Applied machine learning.
 
-I laid a solid foundation in meta-learning in doing my master research project, supervised by Dr. [Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html)). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr. [Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the Question Generation and Dialouge System. Previously, I interned at Cambricon as an algorithm researcher and JD.com as an SDE.
+I laid a solid foundation in meta-learning in doing my master research project, supervised by Dr. [Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr. [Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the Question Generation and Dialouge System. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
 
 <strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, Meta-learning and Machine Learning. If you have any helpful information, please contact me! Thank you very much!</font></strong>
 
@@ -60,93 +60,6 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <P>Courses: Probability and Statistics(96), Numerical Methods of Partial Differential Equation(96), Numerical Analysis(92), Operations Research(100), Equations of Mathematical Physics(91), Elements of Information Science(96), Preliminary Functional Analysis(98), Function of Complex Variable(97), Topology(93), C Language(90), Computer Network Technology and Applications(90) </P>
                         </td>
                     </tr>
-                </tbody>
-            </table>
-
-
-## Publication
-
- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-                <tbody>
-                    <tr>, 
-                        <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/SOCO.png" alt="blind-date" width="200" height="130">
-                        </td>
-                        <td width="100%" valign="middle">
-                            <a href="https://link.springer.com/article/10.1007/s00500-021-06475-w">
-                                <papertitle>Efficient network dismantling through genetic algorithms</papertitle>
-                            </a>
-                            <br>
-                            <strong>Wei Lin</strong>, <a href="http://m3nets.de/group/sw.html">Sebastian Wandelt,</a> <a href="http://m3nets.de/group/xs.html">Xiaoqian Sun</a>
-                            <br>
-                            <em>Soft Computing</em>, 2021  <font color="red"><strong>IF=3.643 (Q2)</strong></font>
-                            <br>
-                            <a href="../files/SOCO.pdf">pdf</a> 
-                            <p>In this study, we propose a novel network attack technique based on genetic algorithms. Results show that our novel technique significantly outperforms the state-of-the-art methods, providing an interesting sweet spot between attack quality and computational complexity.</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/RESS.png" alt="blind-date" width="200" height="100">
-                        </td>
-                        <td width="100%" valign="middle">
-                            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832021006335?via%3Dihub">
-                                <papertitle>From random failures to targeted attacks in network dismantling</papertitle>
-                            </a>
-                            <br>
-                            <a href="http://m3nets.de/group/sw.html">Sebastian Wandelt</a>, <strong>Wei Lin</strong>, <a href="http://m3nets.de/group/xs.html">Xiaoqian Sun</a>
-                            <br>
-                            <em>Reliability Engineering & System Safety</em>, 2021  <font color="red"><strong>IF=6.188 (Q1) </strong></font>
-                            <br>
-                            <a href="../files/RESS.pdf">pdf</a>
-                            <p>In this study, we propose a novel perspective to solve the network dismantling problem. Instead of designing an effective attack from scratch, we show how knowledge extracted from random failures in the network leads to extremely effective attacks. Experiments on a wide range of networks show the
-efficacy of our novel method for network dismantling, providing an excellent trade-off between attack quality
-and scalability.</p>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-## Teaching Assistance
-
-   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-                <tbody>
-                    <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/ICSP.png" width="200" height="160">
-                        </td>
-                        <td style="padding:20px;width:100%;vertical-align:middle">
-                                <papertitle>Introduction to Computer Science and Programming</papertitle>
-                            <p></p>
-                            2020.09-2021.01
-                            <br>
-                            Instructor: <a href='http://m3nets.de/group/sw.html'>Prof. Sebastian Wandelt</a>
-                            <ul style="padding-left:20px;margin:5px">
-                            <li>Fundemantal of python</li>
-                            <li>Algorithms:  sorting (insert sort, bubble sort, merge sort, ...), integer multiplication, select-k</li>
-                            <li>Data structure: binary search trees, red-black tree, hash table,  heaps, stacks, queues</li>
-                                <li>Graph:  depth-first search, breadth-first search, shortest path, minimum spanning tree</li>
-                            </ul>
-                        </td>
-                    </tr>         
-                    <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/DMAI.png" width="200" height="160">
-                        </td>
-                        <td style="padding:20px;width:100%;vertical-align:middle">
-                                <papertitle>Data Management and Artifitial Intelligence</papertitle>
-                            <p></p>
-                            2021.03-2021.06
-                            <br>
-                            Instructor: <a href='http://m3nets.de/group/sw.html'>Prof. Sebastian Wandelt</a>
-                            <ul style="padding-left:20px;margin:5px">
-                            <li>Data analysis, database system, SQL</li>
-                            <li>Visualization: matplotlib, seaborn</li>
-                            <li>Semantic web</li>
-                            <li>Heuristics: A*, genetic algorithms, monte-carlo tree search</li>
-                                <li>Neural networks</li>
-                            </ul>
-                        </td>
-                    </tr>    
                 </tbody>
             </table>
 
