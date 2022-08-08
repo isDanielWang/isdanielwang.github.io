@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shixiang WANG,  a master student at [City University of Hong Kong.](https://www.cityu.edu.hk/)  My research interests include  meta-learning, natural language processing and applied machine learning.
+I am Shixiang WANG,  a master student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  meta-learning, natural language processing and applied machine learning.
 
 I laid a solid foundation in meta-learning in doing my master research project, supervised by Dr. [Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr. [Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
 
@@ -23,7 +23,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <a href="https://www.cityu.edu.hk/">
-                                <papertitle>City University of Hong Kong, Hong Kong</papertitle>
+                                <papertitle>City University of Hong Kong, Hong KongSAR</papertitle>
                             </a>
                             <p></p>
                             <em>MSc in Computer Science (with distinction)</em>   2021.08 - 2022.10(expected)
