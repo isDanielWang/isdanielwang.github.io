@@ -69,7 +69,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                 <tbody>
                     <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/metadrug.png" width="200" height="150">
+                            <img src="../images/metadrug.jpg" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>MetaDrug: An Improved Gradient-based Meta-Learning algorithm for Large Scale Drug Discovery</papertitle>
@@ -93,7 +93,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                     </tr>
                      <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/bert-nsp.png" width="200" height="150">
+                            <img src="../images/bert-nsp.jpg" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>Question Generation: Finetuned on Pretrained with QA-Pair Evaluation</papertitle>
@@ -102,7 +102,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html">Dr. Linqi Song</a>
                             <br>
-                            <a href="../files/IDL.pdf">pdf (chinese)</a> | <a href="../files/IDL_ppt.pdf">ppt (chinese)</a>
+                            <a href="../files/IDL.pdf">pdf</a> | <a href="../files/IDL_ppt.pdf">slides</a>
                             <br>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
