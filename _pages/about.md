@@ -50,7 +50,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <img src="../images/hit.png" width="160" height="160">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <a href="http://www.hit.edu.cn/">
+                            <a href="http://en.hit.edu.cn/">
                                 <papertitle>Harbin Institute of Technology, China</papertitle>
                             </a>
                             <p></p>
