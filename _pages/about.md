@@ -102,7 +102,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html">Dr. Linqi Song</a>
                             <br>
-                            <a href="../files/Finetuned on Pretrained with QA-pair Evaluation.pdf">pdf</a> | <a href="../files/presentation.slides.html">slides</a>
+                            <a href="../files/Finetuned on Pretrained with QA-pair Evaluation.pdf">pdf</a> | <a href="https://doc-3s-5c-drive-data-export.googleusercontent.com/download/cqq4pigaodii7rrvb2tp41rtigceqkto/0l4nb0d088a0q3b8ai0qsldcrlf64q7s/1660104000000/b64f9815-1056-4641-b583-6f70b5478143/106127123270711666763/ADt3v-MEPPQ0_WqOqOKwraF-kfGPrZfDRUDu73MZh48SUeskWWh0d2fx0JSGe2aeF25HiJPVJISgChpKuLoRdz1smZ5okx-UGVQhzhwhe94QaJbuHfXV7-N2qTXcbiBiujkUNOBY5atMSPhSoo7i5pIWwcR4qofYJEYLmmLLC1tp4NqMfOx0GI5p5Tywa4kmyOcZGlTynEAWqypOyJ35fl70WYzQkypVH_giAJXKmuTx99RJhTlf0VRHUs-NDSXN37B4qiun5cgxB4LXLjlZ7c4ChP5aK2RTYYSnwVf_hzE488n0-fXFCzts3aSHKLfwnt4Xe9_9G3IT?authuser=0&nonce=vb34phvq3i61u&user=106127123270711666763&hash=s1oplv580ri3d535hq4hlgfnrqi3u5ss">slides</a>
                             <br>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
