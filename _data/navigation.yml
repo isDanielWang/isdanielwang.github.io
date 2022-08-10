@@ -15,8 +15,8 @@ main:
   - title: "Curriculum Vitae"
     url: /files/CV_LINWEI.pdf
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#   - title: "Blog Posts"
+#     url: /year-archive/
       
   - title: "Research interests"
     url: /markdown/
