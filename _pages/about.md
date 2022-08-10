@@ -214,67 +214,29 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>Machine Learning Programming Assignment-Clustering</papertitle>
                             <p></p>
-                            2021.10
+                            2022.03
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
                             <br>
                            <a href="./files/PA-2-clustering.pdf">pdf</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-2-Clustering-/blob/main/Report.ipynb">report</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-2-Clustering-/blob/main/cluster.py">code</a>
-                          <p>In this programming assignment, I implement and test several clustering algorithms (K-means, EM-GMM, Mean-shift) on both synthetic and real data and examine how each method performs on diﬀerent conﬁgurations of data.</p>
+                          <p>In this programming assignment, I implement and test several clustering algorithms (K-means, EM-GMM, Mean-shift) on both synthetic and real data and examine how each method performs on diﬀerent conﬁgurations of data with only basic libraries.</p>
                         </td>
                     </tr>
                   <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/MnistExamples.png" width="200" height="150">
+                            <img src="../images/regression.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>Handwritten Digits Classification</papertitle>
+                            <papertitle>Machine Learning Programming Assignment-Regression</papertitle>
                             <p></p>
-                            2022.05
+                            2022.02
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
                             <br>
-                            <a href="../files/Handwritten Digits Classification-proposal.pdf">proposal</a> | <a href="../files/Handwritten Digits Classification.pdf">pdf</a> | <a href="https://github.com/isDanielWang/Digits_Classification/blob/main/src/classification.ipynb">code</a>
+                            <a href="../files/PA-1-regression.pdf">pdf</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-1-Regression/blob/main/Summary.ipynb">report</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-1-Regression/blob/main/P1_model.py">code</a>
                             <br>
-                            <ul style="padding-left:20px;margin:5px">
-                                <li>
-                                   Explored on the effectiveness of an emsemble of Shallow CNN models.
-                                </li>
-                                <li>
-                                   Evaluated the effect of kernel size versus performance.
-                                </li>
-                                <li>
-                                   The average challenge score is 0.94.
-                                </li>
-                            </ul>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/cuteness_meter.jpeg" width="200" height="150">
-                        </td>
-                        <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>Animal cuteness analysis, Course Kaggle Competition</papertitle>
-                            <p></p>
-                            2021.12
-                            <br>
-                            Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
-                            <br>
-                            <a href="../files/Pawpularity Contest.pdf">pdf</a> | <a href="../files/PetFinder.pdf">slides</a> | <a href="https://github.com/isDanielWang/PetPawpularity/blob/main/PetPawpularity/CourseProject-2021A.ipynb">code</a>
-                            <ul style="padding-left:20px;margin:5px">
-                                <li>
-                                  In this competition, We analyze raw images and metadata to predict the “Pawpularity” of pet photos. 
-                                 </li>
-                                <li>
-                                   Perform linear regression, ridge regression, LASSO, random forest regression on the provided original features, and use PCA to extract core features. Extract features directly from the original image and apply deep learning models such as CNN. Transfer learning with existing models such as EfficientNetB7
-                                </li>
-                                <li>
-                                   The minimum RMSE after transfer learning of EfficientNetB7 is 20.
-                                </li>
-                            </ul>
+                          <p>In this programming assignment, I first implement and test some of the regression methods (least-squares, regularized LS, L1-regularized LS, robust regression, Bayesian regression) based on the basic libraries. I also estimate the number of people in an image using the above regression methods and do analysis.</p>
                         </td>
                     </tr>
                     </tbody>
             </table>
-
-
-
