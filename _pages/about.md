@@ -180,7 +180,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <img src="../images/sentiment analysis.jpg" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>sentiment analysis.jpg, Course Kaggle Competition</papertitle>
+                            <papertitle>Sentiment analysis.jpg, Course Kaggle Competition</papertitle>
                             <p></p>
                             2021.10
                             <br>
