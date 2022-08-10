@@ -177,7 +177,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                     </tr>
                      <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/cuteness_meter.jpeg" width="200" height="150">
+                            <img src="../images/sentiment analysis.jpg" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>sentiment analysis.jpg, Course Kaggle Competition</papertitle>
