@@ -102,7 +102,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html">Dr. Linqi Song</a>
                             <br>
-                            <a href="../files/Finetuned on Pretrained with QA-pair Evaluation.pdf">pdf</a> | <a href="https://doc-3s-5c-drive-data-export.googleusercontent.com/download/cqq4pigaodii7rrvb2tp41rtigceqkto/0l4nb0d088a0q3b8ai0qsldcrlf64q7s/1660104000000/b64f9815-1056-4641-b583-6f70b5478143/106127123270711666763/ADt3v-MEPPQ0_WqOqOKwraF-kfGPrZfDRUDu73MZh48SUeskWWh0d2fx0JSGe2aeF25HiJPVJISgChpKuLoRdz1smZ5okx-UGVQhzhwhe94QaJbuHfXV7-N2qTXcbiBiujkUNOBY5atMSPhSoo7i5pIWwcR4qofYJEYLmmLLC1tp4NqMfOx0GI5p5Tywa4kmyOcZGlTynEAWqypOyJ35fl70WYzQkypVH_giAJXKmuTx99RJhTlf0VRHUs-NDSXN37B4qiun5cgxB4LXLjlZ7c4ChP5aK2RTYYSnwVf_hzE488n0-fXFCzts3aSHKLfwnt4Xe9_9G3IT?authuser=0&nonce=vb34phvq3i61u&user=106127123270711666763&hash=s1oplv580ri3d535hq4hlgfnrqi3u5ss">slides</a> ｜ <a href="https://github.com/isDanielWang/question_generation">code</a>
+                            <a href="../files/Finetuned on Pretrained with QA-pair Evaluation.pdf">pdf</a> | <a href="https://doc-3s-5c-drive-data-export.googleusercontent.com/download/cqq4pigaodii7rrvb2tp41rtigceqkto/0l4nb0d088a0q3b8ai0qsldcrlf64q7s/1660104000000/b64f9815-1056-4641-b583-6f70b5478143/106127123270711666763/ADt3v-MEPPQ0_WqOqOKwraF-kfGPrZfDRUDu73MZh48SUeskWWh0d2fx0JSGe2aeF25HiJPVJISgChpKuLoRdz1smZ5okx-UGVQhzhwhe94QaJbuHfXV7-N2qTXcbiBiujkUNOBY5atMSPhSoo7i5pIWwcR4qofYJEYLmmLLC1tp4NqMfOx0GI5p5Tywa4kmyOcZGlTynEAWqypOyJ35fl70WYzQkypVH_giAJXKmuTx99RJhTlf0VRHUs-NDSXN37B4qiun5cgxB4LXLjlZ7c4ChP5aK2RTYYSnwVf_hzE488n0-fXFCzts3aSHKLfwnt4Xe9_9G3IT?authuser=0&nonce=vb34phvq3i61u&user=106127123270711666763&hash=s1oplv580ri3d535hq4hlgfnrqi3u5ss">slides</a>｜<a href="https://github.com/isDanielWang/question_generation">code</a>
                             <br>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
@@ -119,3 +119,62 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                     </tr>
                     </tbody>
             </table>
+            
+## Course Project
+
+ <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+                <tbody>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/cuteness_meter.jpeg" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>Animal cuteness analysis， Course Kaggle Competition</papertitle>
+                            <p></p>
+                            2021.11
+                            <br>
+                            Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
+                            <br>
+                            <a href="../files/Pawpularity Contest.pdf">pdf</a> | <a href="https://github.com/isDanielWang/PetPawpularity/blob/main/PetPawpularity/CourseProject-2021A.ipynb">code</a>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                  In this competition, We analyze raw images and metadata to predict the “Pawpularity” of pet photos. 
+                                 </li>
+                                <li>
+                                   Perform linear regression, ridge regression, LASSO, random forest regression on the provided original features, and use PCA to extract core features. Extract features directly from the original image and apply deep learning models such as CNN. Transfer learning with existing models such as EfficientNetB7
+                                </li>
+                                <li>
+                                   The minimum RMSE after transfer learning of EfficientNetB7 is 20.
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                     <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/bert-nsp.jpg" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>Question Generation: Finetuned on Pretrained with QA-Pair Evaluation</papertitle>
+                            <p></p>
+                            2022.03-2022.04 
+                            <br>
+                            Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html">Dr. Linqi Song</a>
+                            <br>
+                            <a href="../files/Finetuned on Pretrained with QA-pair Evaluation.pdf">pdf</a> | <a href="https://doc-3s-5c-drive-data-export.googleusercontent.com/download/cqq4pigaodii7rrvb2tp41rtigceqkto/0l4nb0d088a0q3b8ai0qsldcrlf64q7s/1660104000000/b64f9815-1056-4641-b583-6f70b5478143/106127123270711666763/ADt3v-MEPPQ0_WqOqOKwraF-kfGPrZfDRUDu73MZh48SUeskWWh0d2fx0JSGe2aeF25HiJPVJISgChpKuLoRdz1smZ5okx-UGVQhzhwhe94QaJbuHfXV7-N2qTXcbiBiujkUNOBY5atMSPhSoo7i5pIWwcR4qofYJEYLmmLLC1tp4NqMfOx0GI5p5Tywa4kmyOcZGlTynEAWqypOyJ35fl70WYzQkypVH_giAJXKmuTx99RJhTlf0VRHUs-NDSXN37B4qiun5cgxB4LXLjlZ7c4ChP5aK2RTYYSnwVf_hzE488n0-fXFCzts3aSHKLfwnt4Xe9_9G3IT?authuser=0&nonce=vb34phvq3i61u&user=106127123270711666763&hash=s1oplv580ri3d535hq4hlgfnrqi3u5ss">slides</a>｜<a href="https://github.com/isDanielWang/question_generation">code</a>
+                            <br>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                   Research on answer‑guided question generation using pretrained models including BART, GPT‑2, and T5.
+                                </li>
+                                <li>
+                                   Design an algorithm that finetunes a BERT with NSP-head on the SQUAD dataset.
+                                </li>
+                                <li>
+                                   The result shows noticeable improvement on evaluation metrics including BLEU, ROUGE, and METEOR.
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                    </tbody>
+            </table>
+
