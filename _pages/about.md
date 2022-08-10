@@ -242,5 +242,4 @@ I laid a solid foundation in meta-learning in doing my master research project, 
             </table>
             
  <hr style="height:2px;border:none;color:#333;background-color:#333;" />
- <a href="https://clustrmaps.com/site/1bps7"  title="Visit tracker"></a>
-<!--  <img src="//www.clustrmaps.com/map_v2.png?d=UjOOTPVH53tBPR4TNisiCANPcMpUVsTeXpKg3PmWbRU&cl=ffffff" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/></a> -->
+ <a href="https://clustrmaps.com/site/1bps7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UjOOTPVH53tBPR4TNisiCANPcMpUVsTeXpKg3PmWbRU&cl=ffffff" style="display: block; margin-left: auto; margin-right: auto; width: 20%;"/></a>
