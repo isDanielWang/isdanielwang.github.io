@@ -138,7 +138,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                            <a href="https://github.com/isDanielWang/Tweet-Sentiment-Analysis/blob/main/Tweet%20Sentiment%20Analysis/code/%20Tweet%20Sentiment%20Analysis.ipynb">code</a>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
-                                  The task is predict the sentiment of Tweets about four technology companies, Apple, Microsoft, Google, and Twitter. Here are some examples of tweets with different sentiments.
+                                  The task is predict the sentiment of Tweets about four technology companies, Apple, Microsoft, Google, and Twitter.
                                  </li>
                                 <li>
                                    Analyze tweet features, remove special symbols, common words, and lemmatization. Use BOW and TF-IDF to extract dictionaries from the cleaned data and vectorize the training text.
