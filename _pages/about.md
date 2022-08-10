@@ -175,6 +175,31 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             </ul>
                         </td>
                     </tr>
+                     <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/cuteness_meter.jpeg" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>sentiment analysis.jpg, Course Kaggle Competition</papertitle>
+                            <p></p>
+                            2021.10
+                            <br>
+                            Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
+                            <br>
+                           <a href="https://github.com/isDanielWang/Tweet-Sentiment-Analysis/blob/main/Tweet%20Sentiment%20Analysis/code/%20Tweet%20Sentiment%20Analysis.ipynb">code</a>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                  The task is predict the sentiment of Tweets about four technology companies, Apple, Microsoft, Google, and Twitter. Here are some examples of tweets with different sentiments.
+                                 </li>
+                                <li>
+                                   Analyze tweet features, remove special symbols, common words, and lemmatization. Use BOW and TF-IDF to extract dictionaries from the cleaned data and vectorize the training text.
+                                </li>
+                                <li>
+                                   Use Naive Bayes, Logistic regression, SVM, Adaboost, etc. to train separately, and use grid search to select the optimal value of hyperparameters.
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
                     </tbody>
             </table>
 
