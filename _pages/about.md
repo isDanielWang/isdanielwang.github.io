@@ -144,6 +144,9 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                                 <li>
                                    Evaluated the effect of kernel size versus performance.
                                 </li>
+                                <li>
+                                   The average challenge score is 0.94.
+                                </li>
                             </ul>
                         </td>
                     </tr>
