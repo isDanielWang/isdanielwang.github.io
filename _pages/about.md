@@ -135,7 +135,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
                             <br>
-                            <a href="../files/Handwritten Digits Classification-proposal.pdf">proposal</a> | a href="../files/Handwritten Digits Classification.pdf">pdf</a> | <a href="https://github.com/isDanielWang/Digits_Classification/blob/main/src/classification.ipynb">code</a>
+                            <a href="../files/Handwritten Digits Classification-proposal.pdf">proposal</a> | <a href="../files/Handwritten Digits Classification.pdf">pdf</a> | <a href="https://github.com/isDanielWang/Digits_Classification/blob/main/src/classification.ipynb">code</a>
                             <br>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
