@@ -102,7 +102,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html">Dr. Linqi Song</a>
                             <br>
-                            <a href="../files/IDL.pdf">pdf</a> | <a href="../files/IDL_ppt.pdf">slides</a>
+                            <a href="../files/Finetuned on Pretrained with QA-pair Evaluation.pdf">pdf</a> | <a href="../files/presentation.slides.html">slides</a>
                             <br>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
