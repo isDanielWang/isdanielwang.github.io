@@ -209,7 +209,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                 <tbody>
                  <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/cluster.png" width="200" height="150">
+                            <img src="../images/cluster-01.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>Machine Learning Programming Assignment-Clustering</papertitle>
@@ -224,7 +224,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                     </tr>
                   <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/regression.png" width="200" height="150">
+                            <img src="../images/regression-01.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>Machine Learning Programming Assignment-Regression</papertitle>
