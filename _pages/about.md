@@ -208,7 +208,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
                 <tbody>
                  <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
+                        <td style="padding:25px;width:30%;vertical-align:middle">
                             <img src="../images/cluster-01.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
@@ -223,7 +223,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                         </td>
                     </tr>
                   <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
+                        <td style="padding:25px;width:30%;vertical-align:middle">
                             <img src="../images/regression-01.png" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
