@@ -158,7 +158,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
                             <br>
-                            <a href="../files/Pawpularity Contest.pdf">pdf</a> | <a href="https://github.com/isDanielWang/PetPawpularity/blob/main/PetPawpularity/CourseProject-2021A.ipynb">code</a>
+                            <a href="../files/Pawpularity Contest.pdf">pdf</a> | <a href="../files/PetFinder.pdf">slides</a> | <a href="https://github.com/isDanielWang/PetPawpularity/blob/main/PetPawpularity/CourseProject-2021A.ipynb">code</a>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
                                   In this competition, We analyze raw images and metadata to predict the “Pawpularity” of pet photos. 
