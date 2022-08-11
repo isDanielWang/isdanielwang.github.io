@@ -72,7 +72,7 @@ I laid a solid foundation in meta-learning and machine learning in doing my mast
                             <img src="../images/metadrug.jpg" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>MetaDrug: An Improved Gradient-based Meta-Learning algorithm for Large Scale Drug Discovery</papertitle>
+                            <papertitle>MetaDrug: An Improved Gradient-based Meta-Learning Algorithm for Large Scale Drug Discovery</papertitle>
                             <p></p>
                             2022.01-2022.08 
                             <br>
