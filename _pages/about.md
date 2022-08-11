@@ -51,7 +51,7 @@ I laid a solid foundation in deep learning and bioinformatics in doing my postgr
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <a href="http://en.hit.edu.cn/">
-                                <papertitle>Harbin Institute of Technology, China</papertitle>
+                                <papertitle>Harbin Institute of Technology, China (Rank 1.0% in National College Entrance Examination)</papertitle>
                             </a>
                             <p></p>
                             <em>BSc in Information and Computing</em>   2016.09 - 2020.06
@@ -98,7 +98,7 @@ I laid a solid foundation in deep learning and bioinformatics in doing my postgr
                         <td style="padding:20px;width:100%;vertical-align:middle">
                             <papertitle>Question Generation: Finetuned on Pretrained with QA-Pair Evaluation</papertitle>
                             <p></p>
-                            2022.03-2022.04 
+                            2022.01-2022.04 
                             <br>
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html">Dr. Linqi Song</a>
                             <br>
