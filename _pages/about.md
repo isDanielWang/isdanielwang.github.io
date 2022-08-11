@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Shixiang WANG, a master student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  meta-learning, natural language processing and applied machine learning.
+Hi, I am Shixiang WANG, a postgraduate student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  meta-learning, natural language processing and applied machine learning.
 
-I laid a solid foundation in meta-learning and machine learning in doing my master research project, supervised by Dr.[Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr.[Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation/answering. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
+I laid a solid foundation in meta-learning and machine learning in doing my postgraduate research project, supervised by Dr.[Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr.[Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation/answering. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
 
-<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, meta-learning and machine learning. I am ready for any challenges and collaborations. If you have any helpful information, please contact me! Thank you very much!</font></strong>
+<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, meta-learning and machine learning. I am ready for any challenges. If you have any helpful information, please contact me! Thank you very much!</font></strong>
 
 ## Education
 
