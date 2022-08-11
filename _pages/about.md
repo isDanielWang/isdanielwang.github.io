@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Shixiang WANG,  a master student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  meta-learning, natural language processing and applied machine learning.
+Hi, I am Shixiang WANG, a master student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  meta-learning, natural language processing and applied machine learning.
 
-I laid a solid foundation in meta-learning in doing my master research project, supervised by Dr. [Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr. [Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
+I laid a solid foundation in meta-learning and machine learning in doing my master research project, supervised by Dr.[Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr.[Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation/answering. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
 
-<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, Meta-learning and Machine Learning. If you have any helpful information, please contact me! Thank you very much!</font></strong>
+<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, meta-learning and machine learning. I am ready for any challenges and collaborations. If you have any helpful information, please contact me! Thank you very much!</font></strong>
 
 ## Education
 
@@ -80,13 +80,13 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
-                                   Proposed the Metadrug algorithm and test it on a new drug discovery benchmark.
+                                  Proposed the Metadrug algorithm and tested it on a new drug discovery benchmark.
                                 </li>
                                 <li>
-                                   Introduce the MetaPES training stratrgy which do alleviate the overfitting problem in meta learning without increasing training time.
+                                  Designed MetaPES training strategy to alleviate the overfitting in meta learning without increasing training time.
                                 </li>
                                 <li>
-                                   Use the statistic information from the training data to improve the algorithm’s performance on drug activity predictions.
+                                  Used the statistic information from the training data to improve the algorithm’s performance on drug activity predictions.
                                 </li>
                             </ul>
                         </td>
@@ -109,10 +109,10 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                                    Research on answer‑guided question generation using pretrained models including BART, GPT‑2, and T5.
                                 </li>
                                 <li>
-                                   Design an algorithm that finetunes a BERT with NSP-head on the SQUAD dataset.
+                                   Designed an algorithm that finetuned a BERT with NSP-head on the SQUAD dataset.
                                 </li>
                                 <li>
-                                   The result shows noticeable improvement on evaluation metrics including BLEU, ROUGE, and METEOR.
+                                   The result showed noticeable improvement on evaluation metrics including BLEU, ROUGE, and METEOR.
                                 </li>
                             </ul>
                         </td>
@@ -138,13 +138,13 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                            <a href="https://github.com/isDanielWang/Tweet-Sentiment-Analysis/blob/main/Tweet%20Sentiment%20Analysis/code/%20Tweet%20Sentiment%20Analysis.ipynb">code</a>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
-                                  The task is predict the sentiment of Tweets about four technology companies, Apple, Microsoft, Google, and Twitter.
+                                  The task was to predict the sentiment of Tweets about four technology companies, Apple, Microsoft, Google, and Twitter.
                                  </li>
                                 <li>
-                                   Analyze tweet features, remove special symbols, common words, and lemmatization. Use BOW and TF-IDF to extract dictionaries from the cleaned data and vectorize the training text.
+                                   Analyzed tweet features, removed special symbols, common words, and lemmatization. Used BOW and TF-IDF to extract dictionaries from the cleaned data and vectorize the training text.
                                 </li>
                                 <li>
-                                   Use Naive Bayes, Logistic regression, SVM, Adaboost, etc. to train separately, and use grid search to select the optimal value of hyperparameters.
+                                   Used Naive Bayes, SVM, Adaboost, etc. to train separately, and used grid search to select the optimal value of hyperparameters.
                                 </li>
                             </ul>
                         </td>
@@ -170,7 +170,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                                    Evaluated the effect of kernel size versus performance.
                                 </li>
                                 <li>
-                                   The average challenge score is 0.94.
+                                   The average challenge score was 0.94.
                                 </li>
                             </ul>
                         </td>
@@ -189,13 +189,13 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <a href="../files/Pawpularity Contest.pdf">pdf</a> | <a href="../files/PetFinder.pdf">slides</a> | <a href="https://github.com/isDanielWang/PetPawpularity/blob/main/PetPawpularity/CourseProject-2021A.ipynb">code</a>
                             <ul style="padding-left:20px;margin:5px">
                                 <li>
-                                  In this competition, We analyze raw images and metadata to predict the “Pawpularity” of pet photos. 
+                                  In this competition, We analyzed raw images and metadata to predict the “Pawpularity” of pet photos. 
                                  </li>
                                 <li>
-                                   Perform linear regression, ridge regression, LASSO, random forest regression on the provided original features, and use PCA to extract core features. Extract features directly from the original image and apply deep learning models such as CNN. Transfer learning with existing models such as EfficientNetB7
+                                   Performed linear regression, ridge regression, lasso, random forest regression on the provided original features, and use pca to extract core features. Extracted features directly from the original image and apply deep learning models such as CNN. Transfer learning with existing models such as EfficientNetB7
                                 </li>
                                 <li>
-                                   The minimum RMSE after transfer learning of EfficientNetB7 is 20.
+                                   The minimum RMSE after transfer learning of EfficientNetB7 was 20.
                                 </li>
                             </ul>
                         </td>
@@ -219,7 +219,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/antoni-bert-chan(4f4a27a4-fd63-4ee5-b64e-4e34b764027a).html">Prof. CHAN Antoni Bert</a>
                             <br>
                            <a href="./files/PA-2-clustering.pdf">pdf</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-2-Clustering-/blob/main/Report.ipynb">report</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-2-Clustering-/blob/main/cluster.py">code</a>
-                          <p>In this programming assignment, I implement and test several clustering algorithms (K-means, EM-GMM, Mean-shift) on both synthetic and real data and examine how each method performs on diﬀerent conﬁgurations of data with only basic libraries.</p>
+                          <p>In this programming assignment, I implemented and tested several clustering algorithms (K-means, EM-GMM, Mean-shift) on both synthetic and real data and examined how each method performs on diﬀerent conﬁgurations of data with only basic libraries.</p>
                         </td>
                     </tr>
                   <tr>
@@ -235,7 +235,7 @@ I laid a solid foundation in meta-learning in doing my master research project, 
                             <br>
                             <a href="../files/PA-1-regression.pdf">pdf</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-1-Regression/blob/main/Summary.ipynb">report</a> | <a href="https://github.com/isDanielWang/CS5487-Programming-Assignment-1-Regression/blob/main/P1_model.py">code</a>
                             <br>
-                          <p>In this programming assignment, I first implement and test some of the regression methods (least-squares, regularized LS, L1-regularized LS, robust regression, Bayesian regression) based on the basic libraries. I also estimate the number of people in an image using the above regression methods and do analysis.</p>
+                          <p>In this programming assignment, I first implemented and tested some of the regression methods (least-squares, regularized LS, L1-regularized LS, robust regression, Bayesian regression) based on the basic libraries. I also estimated the number of people in an image using the above regression methods and did analysis.</p>
                         </td>
                     </tr>
                     </tbody>
