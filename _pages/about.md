@@ -28,7 +28,7 @@ I laid a solid foundation in meta learning and bioinformatics in doing my postgr
                             <p></p>
                             <em>MSc in Computer Science (with distinction)</em>   2021.08 - 2022.10(expected)
                             <p></p>
-                            <strong>CGPA:</strong>3.75/4.3
+                            <strong>CGPA:</strong>3.66/4.3
                             <P>Courses: Machine Learning: Principles and Practice (A), Natural Language Processing (A), Data Warehousing and Data Mining (A+), Artificial Intelligence (A), Data Engineering (A-) </P>
                         </td>
                     </tr>
