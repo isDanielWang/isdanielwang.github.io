@@ -70,30 +70,6 @@ I spent wonderful time doing research with CityU NLP group under the supervision
                 <tbody>
                     <tr>
                         <td style="padding:20px;width:30%;vertical-align:middle">
-                            <img src="../images/metadrug.jpg" width="200" height="150">
-                        </td>
-                        <td style="padding:20px;width:100%;vertical-align:middle">
-                            <papertitle>MetaDrug: An Improved Gradient-based Meta-Learning Algorithm for Large Scale Drug Discovery</papertitle>
-                            <p></p>
-                            2022.01-2022.08 
-                            <br>
-                            Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html">Dr. Ying WEI</a>
-                            <br>
-                            <ul style="padding-left:20px;margin:5px">
-                                <li>
-                                  Proposed the Metadrug algorithm and tested it on a new drug discovery benchmark.
-                                </li>
-                                <li>
-                                  Designed MetaPES training strategy to alleviate the overfitting in meta learning without increasing training time.
-                                </li>
-                                <li>
-                                  Used the statistic information from the training data to improve the algorithm’s performance on drug activity predictions.
-                                </li>
-                            </ul>
-                        </td>
-                    </tr>
-                     <tr>
-                        <td style="padding:20px;width:30%;vertical-align:middle">
                             <img src="../images/bert-nsp.jpg" width="200" height="150">
                         </td>
                         <td style="padding:20px;width:100%;vertical-align:middle">
@@ -118,6 +94,31 @@ I spent wonderful time doing research with CityU NLP group under the supervision
                             </ul>
                         </td>
                     </tr>
+                    <tr>
+                        <td style="padding:20px;width:30%;vertical-align:middle">
+                            <img src="../images/metadrug.jpg" width="200" height="150">
+                        </td>
+                        <td style="padding:20px;width:100%;vertical-align:middle">
+                            <papertitle>MetaDrug: An Improved Gradient-based Meta-Learning Algorithm for Large Scale Drug Discovery</papertitle>
+                            <p></p>
+                            2022.01-2022.08 
+                            <br>
+                            Supervised by <a href="https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html">Dr. Ying WEI</a>
+                            <br>
+                            <ul style="padding-left:20px;margin:5px">
+                                <li>
+                                  Proposed the Metadrug algorithm and tested it on a new drug discovery benchmark.
+                                </li>
+                                <li>
+                                  Designed MetaPES training strategy to alleviate the overfitting in meta learning without increasing training time.
+                                </li>
+                                <li>
+                                  Used the statistic information from the training data to improve the algorithm’s performance on drug activity predictions.
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                     
                     </tbody>
             </table>
             
