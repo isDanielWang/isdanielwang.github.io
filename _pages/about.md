@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Shixiang WANG, a postgraduate student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  natural language processing, bioinformatics, meta-learning, and applied machine learning.
+Hi, I am Shixiang WANG, a postgraduate student at [City University of Hong Kong](https://www.cityu.edu.hk/). My research interests include  natural language processing, machine learning, and bioinformatics.
 
-I laid a solid foundation in deep learning and bioinformatics in doing my postgraduate research project, supervised by Dr.[Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). I also spent wonderful time doing research with CityU NLP group under the supervision of Dr.[Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation/answering. Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
+I spent wonderful time doing research with CityU NLP group under the supervision of Dr.[Linqi SONG](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html), studying the question generation/answering. I also laid a solid foundation in deep learning and bioinformatics in doing my postgraduate research project, supervised by Dr.[Ying WEI](https://scholars.cityu.edu.hk/en/persons/ying-wei(ae416bf0-2939-4f54-b392-841ea9426378).html). Previously, I interned at [Cambricon](https://cambricon.com/) as an algorithm researcher and [JD.com](https://corporate.jd.com/) as an SDE.
 
-<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, bioinformatics , meta-learning and machine learning. I am ready for any challenges. If you have any helpful information, please contact me! Thank you very much!</font></strong>
+<strong><font color=red>I am looking for a Ph.D. position starting from 2023 Spring/Fall! I am passionate about NLP, bioinformatics, and machine learning. I am ready for any challenges. If you have any helpful information, please contact me! Thank you very much!</font></strong>
 
 ## Education
 
@@ -26,7 +26,7 @@ I laid a solid foundation in deep learning and bioinformatics in doing my postgr
                                 <papertitle>City University of Hong Kong, Hong KongSAR</papertitle>
                             </a>
                             <p></p>
-                            <em>MSc in Computer Science (with distinction)</em>   2021.08 - 2022.10(expected)
+                            <em>MSc in Computer Science (with distinction)</em>   2021.08 - 2022.10
                             <p></p>
                             <strong>CGPA:</strong>3.66/4.3
                             <P>Courses: Machine Learning: Principles and Practice (A), Natural Language Processing (A), Data Warehousing and Data Mining (A+), Artificial Intelligence (A), Data Engineering (A-) </P>
