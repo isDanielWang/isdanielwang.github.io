@@ -118,8 +118,7 @@ I spent wonderful time doing research with CityU NLP group under the supervision
                             </ul>
                         </td>
                     </tr>
-                     
-                    </tbody>
+                </tbody>
             </table>
             
 ## Course Project
